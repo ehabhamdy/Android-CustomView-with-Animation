@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ND940C3-Project</string>
+    <string name="app_description">Download files from Internet</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="notification_title">Udacity: Android Kotlin Nanodegree </string>
+    <string name="notification_description">The Project 3 repository is downloaded</string>
+    <string name="notification_button">See changes</string>
+
+    <string name="button_name">Click me</string>
+    <string name="button_loading">We are loading </string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="loading_notification_channel_id" translatable="false">loading_channel</string>
+    <string name="loading_notification_channel_name" translatable="true">Loading</string>
+    <string name="action_open_details">Details</string>
+    <string name="dlabel_text">The following URL has been downloaded</string>
+    <string name="url1">https://github.com/bumptech/glide</string>
+    <string name="url2">https://github.com/udacity/nd940-c3-advanced-android-programming-project-starter</string>
+    <string name="url3">https://github.com/square/retrofit</string>
+    <string name="select_url_label">Please select a URL to download</string>
+    <string name="details_notification_channel_description">Details Notifications</string>
+
+</resources>
